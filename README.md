@@ -140,7 +140,7 @@ If you have any questions, suggestions or feedback, feel free to contact me:
 
 本工具是之前自己为了自己远程控制电脑方便，vibe coding的一个小工具吧，希望能帮助到有需要的人。如果该工具对你有帮助，请不要忘记点亮收藏star，这对我很重要！
 
-This is a little tool I vibe-coded to make remote access to my own computer easier. I hope it can help others who need it.
+This is a little tool I vibe-coded to make remote access to my own computer easier. I hope it can help others who need it. If this tool is helpful to you, please don't forget to light up your favorite star, it's important to me!
 
 ### 赞助支持 / Sponsor and Support
 
