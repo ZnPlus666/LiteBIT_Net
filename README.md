@@ -33,9 +33,10 @@ If the tool is useful to you, don't forget to **light up the star**⭐ and **rec
 
   The network adapter must already be connected to the campus network through Ethernet or Wi-Fi. **The tool cannot operate while the computer is asleep, hibernating or shut down.** Adjust automatic sleep, hibernation and shutdown settings if necessary.
 
-- 注意： / Note:
+- 注意：
 当前版本针对已核对的 SRun V1.18/B2022·0802 门户，默认服务器为 `http://10.0.0.55`，参数为 `ac_id=8`、`n=200`、`type=1`、`double_stack=0`、`ignore=2`。它不是直接适用于其他学校的通用客户端；其他部署需先核对并调整对应参数。
 
+- Note:
 This version targets the verified SRun V1.18/B2022·0802 portal at `http://10.0.0.55`, with `ac_id=8`, `n=200`, `type=1`, `double_stack=0` and `ignore=2`. It is not a universal client for other schools; verify and adjust the parameters before using it with another deployment.
 
 ### 版本选择 / Choosing a version
