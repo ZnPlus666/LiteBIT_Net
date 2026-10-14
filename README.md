@@ -167,3 +167,10 @@ If this tool has helped you, you're welcome to buy the author an egg 🥚 for a 
 - 点亮收藏⭐  / star⭐
 - 推荐给朋友  /  recommend to friends
 - [「微信赞赏码」 / 「WeChat donation code」](sponsor/wechat.png)
+
+你的赞助支持将用于：
+
+Your sponsor and support will be used to:
+
+- 为AI会员续费  /  Renewal of AI membership
+- 租用域名、服务器来支持接下来项目的开发  /  Renting domain names and servers to support the development of future projects
